@@ -1,6 +1,6 @@
-# alx-listing-app-03
+# alx-listing-app
 
-# ALX Listing App 03
+## ALX Listing App depeloyed
 
 This is a modern Airbnb clone scaffolded using Next.js, TypeScript, TailwindCSS, and ESLint.
 
@@ -18,6 +18,3 @@ This is a modern Airbnb clone scaffolded using Next.js, TypeScript, TailwindCSS,
 
 2. Run the app:
    npm run dev
-
-3. Open browser at [http://localhost:3000](http://localhost:3000)
-   14475ad (Normalize line endings)
