@@ -20,6 +20,7 @@ const index: React.FC = () => {
                  alt='background image'
                    className='rounded-3xl  object-cover'
                     fill 
+                    priority
                     />
           <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center px-4 space-y-3">
             <p className='text-4xl md:text-5xl font-extrabold '>Find Your Favorite Place Here</p>
