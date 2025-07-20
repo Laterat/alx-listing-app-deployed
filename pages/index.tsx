@@ -16,11 +16,11 @@ const index: React.FC = () => {
 {/* width={1608} height={481} */}
       <section className='w-full flex flex-col-reverse px-4 md:px-16 md:flex-col space-y-2'>
         <div className='relative w-full h-72 md:h-[481px]'>
-          <Image src='/assets/image-1.png' 
+          <Image src='/assets/Image1.png' 
                  alt='background image'
                    className='rounded-3xl  object-cover'
                     fill 
-                    priority/>
+                    />
           <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center px-4 space-y-3">
             <p className='text-4xl md:text-5xl font-extrabold '>Find Your Favorite Place Here</p>
             <p className='text-sm md:text-base'>The best prices for over 2 million properties worldwide</p>
